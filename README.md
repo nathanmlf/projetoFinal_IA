@@ -110,7 +110,7 @@ Sinta-se à vontade para abrir issues ou enviar Pull Requests para melhorias!
 
 ---
 
-## 👥 Autores do Projeto
+## 👥 Autores do Projeto - Grupo 8 - Turma 27
 
 - 🧠 **Bruno Barbosa dos Santos** 
 - 🛠️ **Bruno Marchiori** 
@@ -125,5 +125,6 @@ Sinta-se à vontade para abrir issues ou enviar Pull Requests para melhorias!
 --------
 
 Desenvolvido com 💙 para fins de estudo e portfólio.
+
 
 
