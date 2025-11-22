@@ -122,6 +122,8 @@ Sinta-se à vontade para abrir issues ou enviar Pull Requests para melhorias!
   <small>🎓 **Residentes do Serratec 2025.2**  
 💻 **Desenvolvedores Full Stack**</small>
 
+--------
 
 Desenvolvido com 💙 para fins de estudo e portfólio.
+
 
