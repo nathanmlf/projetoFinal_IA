@@ -110,4 +110,18 @@ Sinta-se à vontade para abrir issues ou enviar Pull Requests para melhorias!
 
 ---
 
+## 👥 Autores do Projeto
+
+- 🧠 **Bruno Barbosa dos Santos** 
+- 🛠️ **Bruno Marchiori** 
+- 🎨 **Diana Souza Ribeiro** 
+- 🔍 **Fernanda Xabudé** 
+- 🚀 **Nathan Ferreira**
+ 
+
+  <small>🎓 **Residentes do Serratec 2025.2**  
+💻 **Desenvolvedores Full Stack**</small>
+
+
 Desenvolvido com 💙 para fins de estudo e portfólio.
+
